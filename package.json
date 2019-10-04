@@ -1,0 +1,26 @@
+{
+  "name": "project-livestream-ideas-with-real-time",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucasfloriani/project-livestream-ideas-with-real-time.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucasfloriani/project-livestream-ideas-with-real-time/issues"
+  },
+  "homepage": "https://github.com/lucasfloriani/project-livestream-ideas-with-real-time#readme",
+  "dependencies": {
+    "@feathersjs/express": "^4.3.4",
+    "@feathersjs/feathers": "^4.3.4",
+    "@feathersjs/socketio": "^4.3.4",
+    "moment": "^2.24.0"
+  }
+}
